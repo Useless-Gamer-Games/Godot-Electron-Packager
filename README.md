@@ -1,7 +1,7 @@
 # Godot-Electron-Packager
 packages electron for windows and linux
 how to use in godot:
-open with godot 4 for source code
+open with godot 4 for source code and the scene is 2d
 how to use app:
 in the first box, put your project name and in the second box, put the path to your project witha \ on the end
 then click the operating system and wait
